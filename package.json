@@ -21,10 +21,23 @@
     "Mukesh Murugaiyan formatter",
     "Mukesh Murugaiyan ktlint",
     "Mukesh Murugaiyan code formatter",
-    "vscode kotlin"
+    "vscode kotlin",
+    "angular",
+    "commonmark",
+    "css",
+    "ember",
+    "eslint",
+    "html",
+    "javascript",
+    "json",
+    "less",
+    "markdown",
+    "scss",
+    "typescript",
+    "vue"
   ],
   "description": "Fast and lightweight Kotlin formatter for VS Code powered by ktlint. Format, clean, and improve your Kotlin code instantly.",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "engines": {
     "vscode": "^1.70.0"

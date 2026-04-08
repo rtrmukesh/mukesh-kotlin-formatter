@@ -8,6 +8,7 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![ktlint](https://img.shields.io/badge/ktlint-powered-FF9800?style=for-the-badge)](https://ktlint.github.io/)
+[![Website](https://img.shields.io/badge/Website-themukesh.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://themukesh.com)
 
 > **Format your Kotlin files instantly for that perfect look.**
 
